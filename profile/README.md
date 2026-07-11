@@ -41,7 +41,7 @@ development.
 
 --- 
 
-Built by Daniel Petrica. Based in Tokyo. Solo developer, graduate student.
+Built by @danielpetrica Daniel Petrica. Based in Tokyo. Solo developer.
 
 LaraPlugins is an independent platform. Laravel is a trademark of
 Taylor Otwell.
