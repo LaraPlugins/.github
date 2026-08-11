@@ -1,6 +1,10 @@
 # LaraPlugins.io — Laravel Plugin Health Directory
 Visit [https://laraplugins.io/](https://laraplugins.io/) the complete laravel plugins and packages directory. 
 
+[![LaraPlugins.io: homepage stats](
+https://laraplugins.io/og/home)](
+https://laraplugins.io/)
+
 LaraPlugins is the directory and analysis platform for the Laravel
 ecosystem. It indexes over 79,000 Laravel plugins and provides automated health
 scoring, version compatibility checks, security advisory tracking, and semantic
