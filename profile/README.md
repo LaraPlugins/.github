@@ -30,22 +30,6 @@ well maintained.
 - **LLM-Ready Datasets** — Full ecosystem exports in `llms-full.txt` and JSONL
   formats for AI tooling.
 
-## Sponsorship
-
-LaraPlugins is hosted and maintained by a solo developer. Sponsorship directly
-funds server infrastructure, continuous indexing pipelines, and new feature
-development.
-
-| Tier | Monthly | Key Benefits |
-|------|---------|-------------|
-| Supporter | $5 | Sponsor badge, 120 RPM rate limit, access to semantic search (vector search) |
-| Developer | $15 | All Supporter benefits + access to private repo with `llms-full.txt` and JSONL data exports |
-| Gold | $50+ | All Developer benefits + logo placement in README |
-
-[Sponsor LaraPlugins on GitHub Sponsors](https://github.com/sponsors/laraplugins)
-
---- 
-
 Built by @danielpetrica Daniel Petrica. Based in Tokyo. Solo developer.
 
 LaraPlugins is an independent platform. Laravel is a trademark of
