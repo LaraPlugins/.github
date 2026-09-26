@@ -1,4 +1,4 @@
-# LaraPlugins.io — Laravel Plugin Health Directory
+# LaraPlugins.io The Laravel Package Health Directory
 Visit [https://laraplugins.io/](https://laraplugins.io/) the complete laravel plugins and packages directory. 
 
 [![LaraPlugins.io: homepage stats](
