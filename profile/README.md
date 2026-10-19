@@ -6,7 +6,7 @@ https://laraplugins.io/og/home)](
 https://laraplugins.io/)
 
 LaraPlugins is the directory and analysis platform for the Laravel
-ecosystem. It indexes over 85,814 Laravel plugins and provides automated health
+ecosystem. It indexes 85,814 Laravel plugins and provides automated health
 scoring, version compatibility checks, security advisory tracking, and semantic
 search across the entire package landscape.
 
