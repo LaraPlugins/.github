@@ -6,7 +6,7 @@ https://laraplugins.io/og/home)](
 https://laraplugins.io/)
 
 LaraPlugins is the directory and analysis platform for the Laravel
-ecosystem. It indexes over 79,000 Laravel plugins and provides automated health
+ecosystem. It indexes over 85,814 Laravel plugins and provides automated health
 scoring, version compatibility checks, security advisory tracking, and semantic
 search across the entire package landscape.
 
@@ -31,6 +31,16 @@ well maintained.
   formats for AI tooling.
 
 Built by @danielpetrica Daniel Petrica. Based in Tokyo. Solo developer.
+
+## Sponsor
+
+LaraPlugins is independent: no ads, no tracking, and no vendor can pay to change
+a score.
+
+[**Sponsor LaraPlugins on GitHub Sponsors**](https://github.com/sponsors/LaraPlugins)
+
+Sponsorships cover the servers and the API, and include a sponsor badge, higher
+rate limits, semantic search and data exports, depending on the tier.
 
 LaraPlugins is an independent platform. Laravel is a trademark of
 Taylor Otwell.
